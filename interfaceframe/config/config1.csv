@@ -1,0 +1,12 @@
+脚本存放路径,脚本名,接口类型,运行状态,执行顺序
+D:\python\interfaceframe\script\ind_interface,test_register.py,独立接口,Yes,7
+D:\python\interfaceframe\script\ind_interface,test_login.py,独立接口,Yes,4
+D:\python\interfaceframe\script\ind_interface,test_check_vaild.py,独立接口,Yes,3
+D:\python\interfaceframe\script\ind_interface,test_forget_get_question.py,独立接口,Yes,2
+D:\python\interfaceframe\script\ind_interface,test_forget_check_answer.py,独立接口,Yes,5
+D:\python\interfaceframe\script\ind_interface,test_forget_reset_password.py,独立接口,Yes,1
+D:\python\interfaceframe\script\ind_interface,test_reset_password.py,独立接口,Yes,6
+D:\python\interfaceframe\script\ind_interface,test_update_information.py,独立接口,Yes,8
+D:\python\interfaceframe\script\ind_interface,test_get_information.py,独立接口,Yes,9
+D:\python\interfaceframe\script\mul_interface,test_workflow_reset_password_v1.py,联调接口,No,1
+D:\python\interfaceframe\script\mul_interface,test_workflow_update_infomation_v1.py,联调接口,No,1

@@ -1,0 +1,6 @@
+str,type,expresult
+王红5,username,校验成功
+wanghong5@qq.com,email,校验成功
+王红,username,用户名已经存在
+wanghong@qq.com,email,邮件已经存在
+,,注册参数错误

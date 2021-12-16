@@ -1,0 +1,9 @@
+url,http://192.168.157.129:8080/jwshoplogin/user/update_information.do,expresult,更新个人信息成功,url,http://192.168.157.129:8080/jwshoplogin/user/get_information.do,1,email,tommm@qq.com,,,,,,
+url,http://192.168.157.129:8080/jwshoplogin/user/update_information.do,expresult,更新个人信息成功,url,http://192.168.157.129:8080/jwshoplogin/user/get_information.do,1,phone,13656234561,,,,,,
+url,http://192.168.157.129:8080/jwshoplogin/user/update_information.do,expresult,更新个人信息成功,url,http://192.168.157.129:8080/jwshoplogin/user/get_information.do,1,question,最喜欢的水果,,,,,,
+url,http://192.168.157.129:8080/jwshoplogin/user/update_information.do,expresult,更新个人信息成功,url,http://192.168.157.129:8080/jwshoplogin/user/get_information.do,1,answer,蓝莓,,,,,,
+url,http://192.168.157.129:8080/jwshoplogin/user/update_information.do,expresult,更新个人信息成功,url,http://192.168.157.129:8080/jwshoplogin/user/get_information.do,2,email,tomnn@qq.com,phone,13656234563,,,,
+url,http://192.168.157.129:8080/jwshoplogin/user/update_information.do,expresult,更新个人信息成功,url,http://192.168.157.129:8080/jwshoplogin/user/get_information.do,2,question,喜欢的颜色,answer,彩虹色,,,,
+url,http://192.168.157.129:8080/jwshoplogin/user/update_information.do,expresult,更新个人信息成功,url,http://192.168.157.129:8080/jwshoplogin/user/get_information.do,3,email,tomkk@.com,phone,13656234564,answer,白色,,
+url,http://192.168.157.129:8080/jwshoplogin/user/update_information.do,expresult,更新个人信息成功,url,http://192.168.157.129:8080/jwshoplogin/user/get_information.do,4,email,tomll@qq.com,phone,13656234565,question,喜欢吃的菜,answer,西蓝花
+url,http://192.168.157.129:8080/jwshoplogin/user/update_information.do,expresult,"email已存在,请更换email再尝试更新",url,http://192.168.157.129:8080/jwshoplogin/user/get_information.do,1,email,zhangming@qq.com,,,,,,
